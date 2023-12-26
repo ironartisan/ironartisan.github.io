@@ -8,7 +8,7 @@ keywords: 中文文案排版指北
 topmost: true
 ---
 
-GitHub repository: [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
+
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
@@ -243,7 +243,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 ## 工具
 
 | 仓库                                                                                                                            | 语言            |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
 | [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
 | [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)                                                               | Ruby            |
@@ -256,21 +256,21 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 ## 谁在这样做？
 
 | 网站                                              | 文案 | UGC          |
-|---------------------------------------------------|------|--------------|
+| ------------------------------------------------- | ---- | ------------ |
 | [Apple 中国](http://www.apple.com/cn/)            | Yes  | N/A          |
 | [Apple 香港](http://www.apple.com/hk/)            | Yes  | N/A          |
 | [Apple 台湾](http://www.apple.com/tw/)            | Yes  | N/A          |
 | [Microsoft 中国](http://www.microsoft.com/zh-cn/) | Yes  | N/A          |
 | [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes  | N/A          |
 | [Microsoft 台湾](http://www.microsoft.com/zh-tw/) | Yes  | N/A          |
-| [LeanCloud](https://leancloud.cn/)                 | Yes  | N/A          |
-| [知乎](https://www.zhihu.com/)                     | Yes  | 部分用户达成 |
-| [V2EX](https://www.v2ex.com/)                      | Yes  | Yes          |
-| [SegmentFault](https://segmentfault.com/)          | Yes  | 部分用户达成 |
+| [LeanCloud](https://leancloud.cn/)                | Yes  | N/A          |
+| [知乎](https://www.zhihu.com/)                    | Yes  | 部分用户达成 |
+| [V2EX](https://www.v2ex.com/)                     | Yes  | Yes          |
+| [SegmentFault](https://segmentfault.com/)         | Yes  | 部分用户达成 |
 | [Apple4us](http://apple4us.com/)                  | Yes  | N/A          |
-| [豌豆荚](https://www.wandoujia.com/)               | Yes  | N/A          |
-| [Ruby China](https://ruby-china.org/)              | Yes  | 标题达成     |
-| [PHPHub](https://phphub.org/)                      | Yes  | 标题达成     |
+| [豌豆荚](https://www.wandoujia.com/)              | Yes  | N/A          |
+| [Ruby China](https://ruby-china.org/)             | Yes  | 标题达成     |
+| [PHPHub](https://phphub.org/)                     | Yes  | 标题达成     |
 
 ## 参考文献
 
@@ -283,3 +283,6 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 - [全角和半角 - 维基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+
+## 参考链接
+[中文文案排版指北（简体中文版)](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)

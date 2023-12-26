@@ -229,3 +229,6 @@ SELECT * FROM Orders LIMIT 30;
 SELECT * FROM Orders LIMIT 10 OFFSET 15; -- 第 16 到第 25 个结果
 SELECT * FROM Orders LIMIT 15, 10; -- 等价于上面
 ```
+
+## 参考链接
+<https://mazhuang.org/wiki/mysql/>

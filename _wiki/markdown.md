@@ -178,19 +178,11 @@ This is a text with footnote[^1].
 
 ### mermaid
 
-```mermaid
+<div class="mermaid">
 sequenceDiagram
-    Alice-->>John: Hello John, how are you?  
+    Alice-->>John: Hello John, how are you?
     John-->>Alice: Great!
-```
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+</div>
 
 ### sequence
 
@@ -247,3 +239,6 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 ```
 
 [^1]: Here is the footnote 1 definition.
+
+## 参考链接
+<https://mazhuang.org/wiki/markdown/>

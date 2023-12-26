@@ -18,7 +18,7 @@ M --> Alt
 Cmd --> Command
 
 | 功能              | Windows | Mac OS X |
-|:------------------|:--------|:---------|
+| :---------------- | :------ | :------- |
 | 打开文件          | C-o     |          |
 | 打开文件夹        | C-k C-o |          |
 | 关闭文件夹        | C-k f   |          |
@@ -46,12 +46,6 @@ Cmd --> Command
 
 参考：<https://blog.kulman.sk/using-vscode-as-git-merge-tool/>
 
-## 使用 VSCode 作为 git commit message 编辑器
-
-```
-git config --global core.editor "code -w"
-```
-
 ## VSCodeVim 支持按键重复
 
 在 macOS，默认情况 VSCodeVim 模式下是不支持按键重复的，比如你在 Normal 模式下长按 `L`，结果光标只向右移动了一次，而没有像你预期的那样一直移动。
@@ -71,15 +65,5 @@ $ defaults delete -g ApplePressAndHoldEnabled                                   
 
 如果有需要，调整「系统偏好设置」—「键盘」里的「按键重复」和「重复前延迟」。
 
-## 在命令行使用 code 命令启动 VSCode
-
-默认并不支持，但可以使用以下方式开启：
-
-<kbd>command</kbd>+<kbd>shift</kbd>+<kbd>p</kbd> 打开命令面板，输入 `shell`，选择 `Shell Command: Install 'code' command in PATH`。
-
-- `code .` 打开当前目录；
-- `code -n .` 在窗口打开当前目录；
-- `code -r .` 复用现有窗口打开当前目录；
-- `code -g <file:line:column>` 打开指定文件并跳转到指定行列；
-
-`code -h` 查看更多命令。
+##  参考链接
+<https://mazhuang.org/wiki/visual-studio-code/>

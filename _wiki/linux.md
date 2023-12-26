@@ -76,3 +76,6 @@ lsof -c Vim
 ```
 
 注意程序名区分大小写。
+
+## 参考链接
+<https://mazhuang.org/wiki/linux/>

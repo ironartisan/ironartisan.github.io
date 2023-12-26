@@ -66,4 +66,5 @@ split pane 和 move focus within panes：
 { "command" : "moveFocusDown", "keys": [ "alt+down" ] }
 ```
 
-参考：<https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md>
+## 参考链接
+<https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md>
